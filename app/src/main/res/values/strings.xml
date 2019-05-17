@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">BaiTap1</string>
+    <string name="name_taco">Taco Pronto</string>
+    <string name="address_string">123 Euclid Ave</string>
+    <string name="phone_string">Phone: 0764553313</string>
+    <string name="string_size">Size</string>
+    <string name="string_torilla">Tortilla</string>
+    <string name="rad_size_large">Large</string>
+    <string name="rad_size_medium">Medium</string>
+    <string name="rad_tortilla_corn">Corn</string>
+    <string name="rad_tortilla_flour">Flour</string>
+    <string name="lbl_fillings">Fillings</string>
+    <string name="ckbox_beef">Beef</string>
+    <string name="ckbox_chicken">Chicken</string>
+    <string name="ckbox_white_fish">White Fish</string>
+    <string name="ckbox_cheese">Cheese</string>
+    <string name="ckbox_seafood">SeaFood</string>
+    <string name="ckbox_rice">Rice</string>
+    <string name="ckbox_beans">Beans</string>
+    <string name="ckbox_pico_de_gallo">Pico De Gallo</string>
+    <string name="ckbox_guacamole">Guacamole</string>
+    <string name="ckbox_lbt">LBT</string>
+    <string name="lbl_beverage">Beverage</string>
+    <string name="ckbox_soda">Soda</string>
+    <string name="ckbox_cerveza">Cerveza</string>
+    <string name="ckbo_margarita">Margarita</string>
+    <string name="ckbox_tequila">Tequila</string>
+    <string name="btn_send">Place Your Order</string>
+</resources>
